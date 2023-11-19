@@ -1,0 +1,28 @@
+===== User Overview =====
+Total users: 3
+Total tasks: 3
+-----------------------
+Username: admin
+Password: password
+Tasks assigned: 1
+Tasks assigned percentage: 33.33%
+Tasks completed percentage: 100.00%
+Tasks uncompleted percentage: 0.00%
+Tasks overdue percentage: 0.00%
+-----------------------
+Username: Micky
+Password: Micky
+Tasks assigned: 1
+Tasks assigned percentage: 33.33%
+Tasks completed percentage: 0.00%
+Tasks uncompleted percentage: 100.00%
+Tasks overdue percentage: 0.00%
+-----------------------
+Username: Southgate
+Password: 3L1on5
+Tasks assigned: 1
+Tasks assigned percentage: 33.33%
+Tasks completed percentage: 0.00%
+Tasks uncompleted percentage: 100.00%
+Tasks overdue percentage: 0.00%
+-----------------------
